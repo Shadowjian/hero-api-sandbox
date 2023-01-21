@@ -1,0 +1,23 @@
+{
+  "name": "hero-api-sandbox",
+  "version": "1.0.0",
+  "description": "learning how to deploy express to vercel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shadowjian/hero-api-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shadowjian/hero-api-sandbox/issues"
+  },
+  "homepage": "https://github.com/Shadowjian/hero-api-sandbox#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
